@@ -1,4 +1,4 @@
-### Apache Airavata
+# Apache Airavata
 ![image](https://github.com/user-attachments/assets/6d908819-cf5e-48d0-bbf7-f031c95adf94)
 
 [![CI](https://github.com/apache/airavata/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/apache/airavata/actions/workflows/ci.yml)
